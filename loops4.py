@@ -49,3 +49,16 @@ def add(x):
 	def inc(y):
 		return x + y
 	return inc
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
